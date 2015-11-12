@@ -1,0 +1,5 @@
+_assetic:
+    resource: .
+    type: assetic
+_app:
+    resource: 'C:\Users\syed\Documents\Aptana Studio 3 Workspace\symblog.dev\app/config/routing_dev.yml'
